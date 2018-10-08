@@ -1,4 +1,4 @@
-package example.buddy.collection;
+package org.nirmal.buddy.collection;
 
 import java.io.Serializable;
 
