@@ -26,11 +26,11 @@ public class XmlPaths {
 			String data = "<make-payment-request xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n" +
 					"	xmlns=\"http://www.princetonecom.com/fundingPortal/makepaymentrequest\">\r\n" +
 					"	<identity>\r\n" +
-					"		<business-id>543964</business-id>\r\n" +
-					"		<login>HudsonDemoSSOUser</login>\r\n" +
-					"		<password>X3cG1wKT9m</password>\r\n" +
+					"		<business-id>aa</business-id>\r\n" +
+					"		<login>aa</login>\r\n" +
+					"		<password>aaa</password>\r\n" +
 					"	</identity>\r\n" +
-					"	<funding-token-id>000096500207082014093113977</funding-token-id>\r\n" +
+					"	<funding-token-id>aaaaa</funding-token-id>\r\n" +
 					"	<nacha-standard-entry-class>PPD</nacha-standard-entry-class>\r\n" +
 					"	<credit-debit-indicator>DEBIT</credit-debit-indicator>\r\n" +
 					"	<requested-payment-date>2007-08-30</requested-payment-date>\r\n" +
